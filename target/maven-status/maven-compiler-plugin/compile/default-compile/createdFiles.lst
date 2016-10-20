@@ -1,0 +1,6 @@
+com\github\taskslist\utility\TasksCounterValidator.class
+com\github\taskslist\classes\Task.class
+com\github\taskslist\DAO\TaskDAO.class
+com\github\taskslist\utility\DateValidator.class
+com\github\taskslist\App.class
+com\github\taskslist\controllers\TaskController.class
