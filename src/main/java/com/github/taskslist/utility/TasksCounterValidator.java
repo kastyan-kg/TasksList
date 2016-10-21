@@ -7,8 +7,13 @@ import com.github.taskslist.DAO.TaskDAO;
  */
 public class TasksCounterValidator {
 
+    private TaskDAO dao;
+    public TasksCounterValidator(TaskDAO dao)
+    {
+        this.dao = dao;
+    }
+
     public boolean checkPossibleTaskNuber(int finishedTask){
-        TaskDAO dao = new TaskDAO();
         int numberOfTasks = dao.countTasks();
         if(0 < finishedTask && finishedTask <= numberOfTasks){
             return true;

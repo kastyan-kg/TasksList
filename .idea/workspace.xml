@@ -26,51 +26,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45266274" vertical-offset="153" max-vertical-offset="2584">
-              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="833">
+              <caret line="31" column="5" selection-start-line="23" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TaskController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/controllers/TaskController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1224">
-              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#printFifnishedTasks#0;class#TaskController#0" expanded="false" />
-                <element signature="e#2202#2208#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TaskDAO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/DAO/TaskDAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4216">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="15" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2092#2098#0" expanded="true" />
-                <element signature="method#showFinishedTasks#0;class#TaskDAO#0" expanded="false" />
-                <element signature="e#3775#3781#0" expanded="true" />
-                <element signature="method#countTasks#0;class#TaskDAO#0" expanded="false" />
-                <element signature="e#7564#7570#0" expanded="true" />
-                <marker date="1476985682721" expanded="true" signature="999:1207" placeholder="INSERT INTO ..." />
-                <marker date="1476985682721" expanded="true" signature="2356:2394" placeholder="SELECT * FRO..tasks..." />
-                <marker date="1476985682721" expanded="true" signature="4039:4077" placeholder="SELECT * FRO..tasks..." />
-                <marker date="1476985682721" expanded="true" signature="5720:5761" placeholder="UPDATE tasks..." />
-                <marker date="1476985682721" expanded="true" signature="6692:6737" placeholder="SELECT COUNT..tasks..." />
-                <marker date="1476985682721" expanded="true" signature="7828:7882" placeholder="SELECT * FRO..tasks..." />
-                <marker date="1476985682721" expanded="true" signature="9686:9740" placeholder="UPDATE tasks..." />
               </folding>
             </state>
           </provider>
@@ -79,9 +41,72 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="223" max-vertical-offset="646">
-              <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="580" max-vertical-offset="1224">
+              <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaskDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/DAO/TaskDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1219" max-vertical-offset="2159">
+              <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+              <folding>
+                <marker date="1477051693416" expanded="true" signature="282:350" placeholder="INSERT INTO ..." />
+                <marker date="1477051693416" expanded="true" signature="401:439" placeholder="SELECT * FRO..tasks..." />
+                <marker date="1477051693416" expanded="true" signature="498:536" placeholder="SELECT * FRO..tasks..." />
+                <marker date="1477051693416" expanded="true" signature="590:632" placeholder="UPDATE tasks..." />
+                <marker date="1477051693416" expanded="true" signature="684:729" placeholder="SELECT COUNT..tasks..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PriorityType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/classes/PriorityType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EntryPoint.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/classes/EntryPoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.1319648" vertical-offset="1349" max-vertical-offset="2669">
+              <caret line="82" column="52" selection-start-line="82" selection-start-column="52" selection-end-line="82" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaskService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/controllers/TaskService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="639" max-vertical-offset="1020">
+              <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/classes/Task.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="986">
+              <caret line="56" column="75" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="75" />
+              <folding>
+                <element signature="e#889#890#0" expanded="true" />
+                <element signature="e#920#921#0" expanded="true" />
+                <element signature="e#954#955#0" expanded="true" />
+                <element signature="e#1028#1029#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,11 +121,15 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/taskslist/utility/DateValidator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/taskslist/utility/TasksCounterValidator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/taskslist/TasksListApp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/taskslist/classes/Task.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/taskslist/DAO/TaskDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/taskslist/controllers/TaskController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/taskslist/classes/DataProperties.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/taskslist/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/taskslist/classes/PriorityType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/taskslist/classes/Task.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/taskslist/DAO/TaskDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/taskslist/controllers/TaskService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/taskslist/classes/EntryPoint.java" />
       </list>
     </option>
   </component>
@@ -139,7 +168,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -242,6 +270,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="utility" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taskslist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TasksList" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taskslist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="DAO" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -308,6 +366,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -323,6 +382,11 @@
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
   <component name="RunManager" selected="Application.App">
     <configuration default="false" name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -610,12 +674,14 @@
       <updated>1476888875386</updated>
       <workItem from="1476888883532" duration="15818000" />
       <workItem from="1476955946099" duration="20998000" />
-      <workItem from="1476980938716" duration="7511000" />
+      <workItem from="1476980938716" duration="15400000" />
+      <workItem from="1477041078946" duration="242000" />
+      <workItem from="1477041736374" duration="10155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44327000" />
+    <option name="totallyTimeSpent" value="62613000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -632,7 +698,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4019608" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3970588" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -668,7 +734,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -677,28 +743,104 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2601">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1037" max-vertical-offset="1207">
+          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/controllers/TaskService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1088">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/DAO/TaskDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="5644">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <marker date="1477051693416" expanded="true" signature="282:350" placeholder="INSERT INTO ..." />
+            <marker date="1477051693416" expanded="true" signature="401:439" placeholder="SELECT * FRO..tasks..." />
+            <marker date="1477051693416" expanded="true" signature="498:536" placeholder="SELECT * FRO..tasks..." />
+            <marker date="1477051693416" expanded="true" signature="590:632" placeholder="UPDATE tasks..." />
+            <marker date="1477051693416" expanded="true" signature="684:729" placeholder="SELECT COUNT..tasks..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2601">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1037" max-vertical-offset="1207">
+          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/controllers/TaskService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1088">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/DAO/TaskDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="5644">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <marker date="1477051693416" expanded="true" signature="282:350" placeholder="INSERT INTO ..." />
+            <marker date="1477051693416" expanded="true" signature="401:439" placeholder="SELECT * FRO..tasks..." />
+            <marker date="1477051693416" expanded="true" signature="498:536" placeholder="SELECT * FRO..tasks..." />
+            <marker date="1477051693416" expanded="true" signature="590:632" placeholder="UPDATE tasks..." />
+            <marker date="1477051693416" expanded="true" signature="684:729" placeholder="SELECT COUNT..tasks..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/classes/Task.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="926" max-vertical-offset="1309">
           <caret line="67" column="29" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
           <folding>
-            <element signature="e#854#855#0" expanded="true" />
-            <element signature="e#879#880#0" expanded="true" />
-            <element signature="e#912#913#0" expanded="true" />
-            <element signature="e#940#941#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#1028#1029#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/controllers/TaskController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/controllers/TaskService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#printFifnishedTasks#0;class#TaskController#0" expanded="false" />
-            <element signature="e#2202#2208#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -707,19 +849,11 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="41" max-vertical-offset="1054">
           <caret line="41" column="0" selection-start-line="40" selection-start-column="25" selection-end-line="41" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2092#2098#0" expanded="true" />
-            <element signature="method#showFinishedTasks#0;class#TaskDAO#0" expanded="false" />
-            <element signature="e#3775#3781#0" expanded="true" />
-            <element signature="method#countTasks#0;class#TaskDAO#0" expanded="false" />
-            <element signature="e#7564#7570#0" expanded="true" />
-            <marker date="1476985682721" expanded="true" signature="999:1207" placeholder="INSERT INTO ..." />
-            <marker date="1476985682721" expanded="true" signature="2356:2394" placeholder="SELECT * FRO..tasks..." />
-            <marker date="1476985682721" expanded="true" signature="4039:4077" placeholder="SELECT * FRO..tasks..." />
-            <marker date="1476985682721" expanded="true" signature="5720:5761" placeholder="UPDATE tasks..." />
-            <marker date="1476985682721" expanded="true" signature="6692:6737" placeholder="SELECT COUNT..tasks..." />
-            <marker date="1476985682721" expanded="true" signature="7828:7882" placeholder="SELECT * FRO..tasks..." />
-            <marker date="1476985682721" expanded="true" signature="9686:9740" placeholder="UPDATE tasks..." />
+            <marker date="1477051693416" expanded="true" signature="282:350" placeholder="INSERT INTO ..." />
+            <marker date="1477051693416" expanded="true" signature="401:439" placeholder="SELECT * FRO..tasks..." />
+            <marker date="1477051693416" expanded="true" signature="498:536" placeholder="SELECT * FRO..tasks..." />
+            <marker date="1477051693416" expanded="true" signature="590:632" placeholder="UPDATE tasks..." />
+            <marker date="1477051693416" expanded="true" signature="684:729" placeholder="SELECT COUNT..tasks..." />
           </folding>
         </state>
       </provider>
@@ -748,83 +882,170 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/utility/DateValidator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="833">
+          <caret line="31" column="5" selection-start-line="23" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/utility/TasksCounterValidator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/classes/PriorityType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5532544" vertical-offset="0" max-vertical-offset="442">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="101" max-vertical-offset="595">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/classes/Task.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40236688" vertical-offset="306" max-vertical-offset="1258">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/controllers/TaskController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1224">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="986">
+          <caret line="56" column="75" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="75" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#printFifnishedTasks#0;class#TaskController#0" expanded="false" />
-            <element signature="e#2202#2208#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/DAO/TaskDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4216">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="15" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2092#2098#0" expanded="true" />
-            <element signature="method#showFinishedTasks#0;class#TaskDAO#0" expanded="false" />
-            <element signature="e#3775#3781#0" expanded="true" />
-            <element signature="method#countTasks#0;class#TaskDAO#0" expanded="false" />
-            <element signature="e#7564#7570#0" expanded="true" />
-            <marker date="1476985682721" expanded="true" signature="999:1207" placeholder="INSERT INTO ..." />
-            <marker date="1476985682721" expanded="true" signature="2356:2394" placeholder="SELECT * FRO..tasks..." />
-            <marker date="1476985682721" expanded="true" signature="4039:4077" placeholder="SELECT * FRO..tasks..." />
-            <marker date="1476985682721" expanded="true" signature="5720:5761" placeholder="UPDATE tasks..." />
-            <marker date="1476985682721" expanded="true" signature="6692:6737" placeholder="SELECT COUNT..tasks..." />
-            <marker date="1476985682721" expanded="true" signature="7828:7882" placeholder="SELECT * FRO..tasks..." />
-            <marker date="1476985682721" expanded="true" signature="9686:9740" placeholder="UPDATE tasks..." />
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#1028#1029#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="223" max-vertical-offset="646">
-          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="580" max-vertical-offset="1224">
+          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/App.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/controllers/TaskService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45266274" vertical-offset="153" max-vertical-offset="2584">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="639" max-vertical-offset="1020">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/DAO/TaskDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1627" max-vertical-offset="2159">
+          <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+          <folding>
+            <marker date="1477051693416" expanded="true" signature="282:350" placeholder="INSERT INTO ..." />
+            <marker date="1477051693416" expanded="true" signature="401:439" placeholder="SELECT * FRO..tasks..." />
+            <marker date="1477051693416" expanded="true" signature="498:536" placeholder="SELECT * FRO..tasks..." />
+            <marker date="1477051693416" expanded="true" signature="590:632" placeholder="UPDATE tasks..." />
+            <marker date="1477051693416" expanded="true" signature="684:729" placeholder="SELECT COUNT..tasks..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/utility/TasksCounterValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6480938" vertical-offset="51" max-vertical-offset="527">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/utility/DateExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53079176" vertical-offset="6" max-vertical-offset="425">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/taskslist/classes/EntryPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1319648" vertical-offset="1349" max-vertical-offset="2669">
+          <caret line="82" column="52" selection-start-line="82" selection-start-column="52" selection-end-line="82" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>taskslist</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: mysql:mysql-connector-java:6.0.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

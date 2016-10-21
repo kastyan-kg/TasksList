@@ -2,25 +2,20 @@ package com.github.taskslist.utility;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.util.Date;
 
 /**
  * Created by kos on 20-Oct-16.
  */
-public class DateValidator {
+public class DateExtractor {
 
-
-
-    public boolean checkDateFormat(String possibleDate){
-
-        if (possibleDate == null || !possibleDate.matches("\\d{4}-[01]\\d-[0-3]\\d"))
-            return false;
+    public Date getDateFromString(String possibleDate){
         SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd");
         df.setLenient(false);
         try {
-            df.parse(possibleDate);
-            return true;
+            return df.parse(possibleDate);
         } catch (ParseException ex) {
-            return false;
+            return null;
         }
     }
 }
