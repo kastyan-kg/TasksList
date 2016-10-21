@@ -46,7 +46,7 @@ public class TaskService {
         List<Task> tasksFromDB = dao.showFinishedTasks();
         int counter = 1;
         System.out.println("FINISHED TASKS");
-        System.out.printf("%40s%40s%20s", "name", "deadline", "priority");
+        System.out.printf("%40s%40s%20s", "name", "deadline", "priority","isOverdue");
         System.out.println();
         System.out.println("======================================================================================================");
         for(Task element: tasksFromDB){
